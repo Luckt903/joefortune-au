@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://joefortune-au.pages.dev/sitemap.xml
+Sitemap: https://joefortune-au-3ca.pages.dev/sitemap.xml
